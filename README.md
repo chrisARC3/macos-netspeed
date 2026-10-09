@@ -97,7 +97,7 @@ This tool is basically a simplified version of the Apple Activity Monitor’s (A
 **Caveats:**
 
 * While I tested this software extensively for functional bugs, measurement accuracy, memory leaks and usability, I am NOT claiming that this software is production ready. I simply do not have near the range of hardware necessary to certify it as such.  
-* I’m no longer a certified Apple Developer so I am unable to distribute the finished product through the Apple Store. So if you want this tool, you will need to build it yourself using XCode.  
+* I’m no longer a certified Apple Developer so I am unable to distribute the finished product through the Apple Store. So if you want this tool, you will either need to build it yourself using XCode or download the released build from GitHub.  
 * I set the minimum MacOS as Tahoe and hardware as Apple Silicon only. There’s nothing I know of in the code that would preclude other targets, but I can’t be sure.
 
 **Please Enjoy\!**
